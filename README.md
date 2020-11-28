@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 # Images
 
-![](Mycard.jpeg)
+<img src= "Mycard.jpeg" height=500>
